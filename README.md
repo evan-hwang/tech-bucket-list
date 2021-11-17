@@ -13,3 +13,4 @@
 - [ ] 오픈소스 커미터 되보기
 - [ ] Mars 2020 Helicopter Mission 뱃지 달성하기
 - [ ] Redis Pub/Sub 으로 채팅 프로그램 만들어보기
+- [ ] 멋진 GitHub Flow 팀원들에게 공유 (Branching Starategy, PR, Issue Template, CI/CD)
