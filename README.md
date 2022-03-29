@@ -12,6 +12,11 @@
 - [ ] 동기, 비동기 설명하기
 - [ ] 동시성, 병렬성 설명하기
 
+### Reactive
+- [ ] WebSocket vs RSocket
+- [ ] Reactor를 이용한 채팅 서비스 만들어보기
+- [ ] WebHook vs SSE(Server Sent Event)
+
 ### 그 외
 - [ ] 서킷 브레이커(Circuit Breaker) vs 속도 제한기(Rate limiter) 설명 명확하게 할 수 있기
 - [ ] 오픈소스 커미터 되보기
